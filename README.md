@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm Marco.
+
+:briefcase: Working on digital transformation projects with a focus on AI in regulated industries. 
+
+:telescope: Interesting and scalable use cases as well as tools and tooling to enable them.
 
 <!--
 **MarcoNiemann/MarcoNiemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
